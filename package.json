@@ -1,0 +1,28 @@
+{
+  "name": "react-server-render",
+  "version": "1.0.0",
+  "description": "A React server rendering example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiguhRuiz/react-server-render.git"
+  },
+  "author": "Miguh Ruiz <miguhruiz@gmail.com> (https://miguhruiz.xyz)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiguhRuiz/react-server-render/issues"
+  },
+  "homepage": "https://github.com/MiguhRuiz/react-server-render#readme",
+  "dependencies": {
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1",
+    "babel-register": "^6.11.6",
+    "express": "^4.14.0",
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0"
+  }
+}
