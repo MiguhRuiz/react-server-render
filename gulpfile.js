@@ -18,8 +18,4 @@ gulp.task('build', function() {
     .pipe(gulp.dest('./public/js'))
 })
 
-gulp.task('watch', function () {
-  gulp.watch('./src/components/**/*.jsx', ['build'])
-})
-
-gulp.task('default', ['build', 'watch'])
+gulp.task('default', ['build'])
