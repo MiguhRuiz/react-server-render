@@ -44,3 +44,7 @@ jspm_packages
 
 # FrontEnd Tests
 index.html
+
+# Build file
+
+public/js/app.js
