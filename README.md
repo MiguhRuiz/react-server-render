@@ -2,7 +2,7 @@
 
 An example of how to serve React components on NodeJS in order to decrease the load time of the application. Created because of a post on my personal blog. Link on the repository.
 
-** If you want to see the app live, just [click here](https://react-render-miguhruiz.now.sh)
+**If you want to see the app live, just [click here](https://react-render-miguhruiz.now.sh)**
 
 ## Ussage
 
