@@ -4,6 +4,7 @@
   "description": "A React server rendering example",
   "main": "index.js",
   "scripts": {
+    "build": "gulp",
     "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -22,6 +23,7 @@
     "babel-preset-react": "^6.11.1",
     "babel-register": "^6.11.6",
     "express": "^4.14.0",
+    "gulp": "^3.9.1",
     "react": "^15.3.0",
     "react-dom": "^15.3.0"
   },
